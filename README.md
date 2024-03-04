@@ -1,2 +1,2 @@
 # CustomerBehaviorAnalysis-SAS
-Projekt analizy zachowań klientów wykorzystujący SAS do identyfikacji wzorców i przewidywania zachowań. Skupia się na przetwarzaniu danych, analizie eksploracyjnej i modelowaniu predykcyjnym, by dostarczyć wglądów wspierających decyzje biznesowe
+Customer Behavior Analysis project leveraging SAS for pattern identification and behavior prediction. Focuses on data processing, exploratory data analysis, and predictive modeling to provide insights that support business decisions.
