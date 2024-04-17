@@ -33,8 +33,8 @@ Single-Variable Logistic Regression Models: Each model used one predictor at a t
 Coefficient Range: Values ranged from 0 to 1, where a higher Gini coefficient indicates a stronger ability to differentiate between the outcomes (default or no default).
 Threshold Determination
 ## Cutoff Point: Established at a Gini coefficient of 0.4 to select the best predictors from the dataset for further analysis.
-Comparative Analysis
-Ranking Predictors: The Gini coefficient was calculated for different predictors to rank and prioritize variables based on their effectiveness in predicting customer defaults.
+### Comparative Analysis Ranking Predictors: 
+The Gini coefficient was calculated for different predictors to rank and prioritize variables based on their effectiveness in predicting customer defaults.
 Importance of Gini Coefficient in Credit Risk Modeling
 Model Quality: Indicates the model's ability to correctly classify individuals into default or no default categories.
 Decision Making: Financial institutions use these insights to make informed credit granting decisions, reducing the risk of defaults.
