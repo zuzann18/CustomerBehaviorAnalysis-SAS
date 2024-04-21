@@ -14,9 +14,9 @@ Outlier Analysis
 Outlying observations were examined to eliminate errors and anomalies in the data, using quartile methods to identify outliers.
 
 ## Exploratory Data Analysis (EDA) Techniques
-Frequency Analysis: Used to get an overview of the distribution of categorical data, which aids in understanding the diversity and prevalence of categorical features.
-Univariate Analysis: Histograms and summary statistics (mean, standard deviation) were employed to understand the distribution of continuous variables and to check for normality.
-Descriptive Statistics: Insights into central tendencies and variability were provided, which are crucial for understanding baseline characteristics of the data and for modeling assumptions in predictive analytics.
+**Frequency Analysis:** Used to get an overview of the distribution of categorical data, which aids in understanding the diversity and prevalence of categorical features.
+**Univariate Analysis**: Histograms and summary statistics (mean, standard deviation) were employed to understand the distribution of continuous variables and to check for normality.
+**Descriptive Statistics**: Insights into central tendencies and variability were provided, which are crucial for understanding baseline characteristics of the data and for modeling assumptions in predictive analytics.
 #### Statistical Tests
 Kolmogorov-Smirnov Test: Used to assess the consistency of distributions, which is important for verifying data homogeneity across datasets.
 ## Predictor Analysis
