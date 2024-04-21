@@ -2,7 +2,7 @@
 ## Forecasting customers' credit defaults based on historical data
 
 ### Project Objective
-The aim of this project was to identify and analyze predictors capable of forecasting customers' credit defaults based on historical data. A key element involved analyzing the impact of various predictors on the target variable, default_cus12, which indicates whether a client defaults after 12 months.
+The aim of this project was to identify and analyze predictors capable of forecasting customers credit defaults based on historical data. A key element involved analyzing the impact of various predictors on the target variable, default_cus12, which indicates whether a client defaults after 12 months.
 
 ## Statistical Methods
 Data Missingness Analysis
